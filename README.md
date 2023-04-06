@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Sid Ghani and welcome to my Github profile</h1>
 <h3>I am a data analytics professional based in London, England.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidghani&label=Profile%20views&color=0e75b6&style=flat" alt="sidghani" /> </p>
-
 🔭 I’m currently working on **my very first public REST API which will be made available this Q2 2022 (watch this space)**
 
 🌱 I’m currently learning **AWS, REST API development, Python and React.js**
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidghani&show_icons=true&locale=en&layout=compact" alt="sidghani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidghani&show_icons=true&locale=en" alt="sidghani" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidghani&label=Profile%20views&color=0e75b6&style=flat" alt="sidghani" /> </p>

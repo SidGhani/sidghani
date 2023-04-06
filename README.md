@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidghani&label=Profile%20views&color=0e75b6&style=flat" alt="sidghani" /> </p>
 
-- 🔭 I’m currently working on **my very first public REST API which will be made available this Q2 2022 (watch this space)**
+🔭 I’m currently working on **my very first public REST API which will be made available this Q2 2022 (watch this space)**
 
-- 🌱 I’m currently learning **AWS, REST API development, Python and React.js**
+🌱 I’m currently learning **AWS, REST API development, Python and React.js**
 
-- 👯 I’m looking to collaborate on **Social projects**
+👯 I’m looking to collaborate on **Social projects**
 
-- 📝 I regularly write articles on [https://medium.com/@sghani77](https://medium.com/@sghani77)
+📝 I regularly write articles on [https://medium.com/@sghani77](https://medium.com/@sghani77)
 
-- 💬 Ask me anything about: **Data Analytics, Data Visualisation, Python or Banking**
+💬 Ask me anything about: **Data Analytics, Data Visualisation, Python or Banking**
 
-- 📫 How to reach me: **(please contact me via LinkedIn [HERE](https://www.linkedin.com/in/sidg777/))**
+📫 How to reach me: **please contact me via LinkedIn [HERE](https://www.linkedin.com/in/sidg777/) or email sghani77@gmail.com**
 
-- ⚡ Fun fact **: I'm a life long Newcastle United Football Club supporter**
+⚡ Fun fact **: I'm a life long Newcastle United Football Club supporter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

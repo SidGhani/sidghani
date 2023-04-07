@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Sid Ghani and welcome to my Github profile</h1>
+<h2>Hi 👋, I'm Sid Ghani and welcome to my Github profile</h2>
 <h3>I am a data analytics professional based in London, England.</h3>
 
 🔭 I’m currently working on **my very first public REST API which will be made available this Q2 2022 (watch this space)**

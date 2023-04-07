@@ -13,7 +13,7 @@
 
 📫 How to reach me: **please contact me via LinkedIn [HERE](https://www.linkedin.com/in/sidg777/) or email sghani77@gmail.com**
 
-⚡ Fun fact: ** I'm a life long Newcastle United Football Club supporter**
+⚡ Fun fact: I'm a life long Newcastle United Football Club supporter
 
 <h2>Certifications:</h2>
 

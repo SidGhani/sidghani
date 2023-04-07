@@ -15,7 +15,8 @@
 
 ⚡ Fun fact: ** I'm a life long Newcastle United Football Club supporter**
 
-<h2>Certifications:</h2> 
+<h2>Certifications:</h2>
+
   Alteryx Foundational Micro Credential: https://www.credly.com/badges/13ba10c4-6959-4d11-9d64-986891426fb8/public_url
 
 <h3 align="left">Connect with me:</h3>

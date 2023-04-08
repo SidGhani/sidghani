@@ -13,15 +13,17 @@
 
 📫 How to reach me: **please contact me via LinkedIn [HERE](https://www.linkedin.com/in/sidg777/) or email sghani77@gmail.com**
 
-⚡ Fun fact: I'm a life long Newcastle United Football Club supporter
-
 <h2>Certifications:</h2>
 
   Alteryx Foundational Micro Credential: https://www.credly.com/badges/13ba10c4-6959-4d11-9d64-986891426fb8/public_url
 
 <h2>Portfolio Projects:</h2>
 
-Coming Soon
+<h3>Chat GPT</h3>
+
+Online Survey (built in HTML and CSS using Chatgpt): file:///C:/Users/sghan/Downloads/Online%20Survey/index.html](https://sidghani.github.io/)
+
+More Coming Soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

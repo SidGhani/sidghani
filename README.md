@@ -21,6 +21,10 @@
 
 - ⚡ Fun fact **: I'm a life long Newcastle United Football Club supporter**
 
+<h2> My Certifications </h2>
+
+Alteryx https://www.credly.com/badges/13ba10c4-6959-4d11-9d64-986891426fb8/public_url
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sidg777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidg777" height="30" width="40" /></a>

@@ -15,13 +15,13 @@
 
 <h2>Certifications:</h2>
 
-  Alteryx Foundational Micro Credential: https://www.credly.com/badges/13ba10c4-6959-4d11-9d64-986891426fb8/public_url
+📜 Alteryx Foundational Micro Credential: https://www.credly.com/badges/13ba10c4-6959-4d11-9d64-986891426fb8/public_url
 
 <h2>Portfolio Projects:</h2>
 
 <h3>Chat GPT</h3>
 
-Online Survey (built in HTML and CSS using Chatgpt): file:///C:/Users/sghan/Downloads/Online%20Survey/index.html](https://sidghani.github.io/)
+📝 Online Survey (built in HTML and CSS using Chatgpt): file:///C:/Users/sghan/Downloads/Online%20Survey/index.html](https://sidghani.github.io/)
 
 More Coming Soon
 

@@ -21,7 +21,7 @@
 
 <h3>Chat GPT</h3>
 
-📝 Online Survey (built in HTML and CSS using Chatgpt): file:///C:/Users/sghan/Downloads/Online%20Survey/index.html](https://sidghani.github.io/)
+📝 Online Survey (built in HTML and CSS using Chatgpt):(https://sidghani.github.io/)
 
 More Coming Soon
 
